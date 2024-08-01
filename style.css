@@ -74,7 +74,7 @@ button:hover{
 .acc{
     background-color: green;
 }
-@media only screen and (min-width: 300px) and (max-width: 76px)
+@media only screen and (min-width: 320px) and (max-width: 768px)
 {
     body{
         background-size: 1000px;
@@ -92,6 +92,8 @@ button:hover{
 .calci-container:hover{
     box-shadow: 8px 8px 50px #bab188;
 }
+
+
     
 button:hover{
     color: tomato;
